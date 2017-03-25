@@ -1,0 +1,6 @@
+{
+  "name": "material",
+  "short_name": "material",
+  "start_url": "/",
+  "display": "standalone"
+}
